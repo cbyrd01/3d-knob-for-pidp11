@@ -3,13 +3,15 @@ This repository contains 3D models for printing replica PDP11/70 rotary selector
 
 I created this 3D model after purchasing and putting together an excellent [PiDP-11 kit](https://obsolescence.wixsite.com/obsolescence/pidp-11) which is based on the open source emulator [SimH](https://github.com/simh/simh) running on a Raspberry Pi.
 
-While the kit is great, the rotary selector knobs do not match the original PDP-11/70's iconic design. These knobs were modeled from photographs of real-world PDP-11/70 front panels. They have been scaled down to fit the replica PiDP-11 kit. Because they are a recreation based on photos, the geometry may be different than the original designs.
+While the kit is great, the included rotary selector knobs are a bit different from the original PDP-11/70's iconic design.
+
+The 3D model knob was modeled from photographs of real-world PDP-11/70 front panels. It has been scaled down to fit the replica PiDP-11 kit. Because they are a recreation based on photos, the geometry may be different than the original designs.
 
 3D rendering of the model:
 
 ![Rendered image of 3D knob](knob_pidp11.png)
 
-**3D printing**: I printed this on a Prusa i3 MK2S using Prusament PLA filiment.
+**3D printing**: I printed two knobs on a Prusa i3 MK2S using Prusament PLA filiment.
 
 **Painting**: I painted them using glossy black acrylic with white acrylic for the line. A steady hand or careful masking is needed to ensure the line is painted straight.
 
