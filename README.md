@@ -5,7 +5,7 @@ I created this 3D model after purchasing and putting together an excellent [PiDP
 
 While the kit is great, the included rotary selector knobs are a bit different from the original PDP-11/70's iconic design.
 
-The 3D model knob was modeled from photographs of real-world PDP-11/70 front panels. It has been scaled down to fit the replica PiDP-11 kit. Because they are a recreation based on photos, the geometry may be different than the original designs.
+This 3D model knob was modeled from photographs of real-world PDP-11/70 front panels. It has been scaled down to fit the replica PiDP-11 kit. Because they are a recreation based on photos, the geometry may be different than the original designs.
 
 3D rendering of the model:
 
